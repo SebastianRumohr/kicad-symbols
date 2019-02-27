@@ -2922,6 +2922,42 @@ K regulator switching adjustable
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic4690.pdf
 $ENDCMP
 #
+$CMP MP163AGS-33
+D 700V, Non-Isolated, Offline Regulator with Integrated LDO, Up to 2W of Output Power, LDO Output Voltage: 3.3V, Peak Current Limit: 210mA
+K regulator switching linear LDO
+F https://www.monolithicpower.com/pub/media/document/m/p/mp163_r1.02_2.pdf
+$ENDCMP
+#
+$CMP MP163AGS-5
+D 700V, Non-Isolated, Offline Regulator with Integrated LDO, Up to 2W of Output Power, LDO Output Voltage: 5V, Peak Current Limit: 210mA
+K regulator switching linear LDO
+F https://www.monolithicpower.com/pub/media/document/m/p/mp163_r1.02_2.pdf
+$ENDCMP
+#
+$CMP MP163BGS-33
+D 700V, Non-Isolated, Offline Regulator with Integrated LDO, Up to 2W of Output Power, LDO Output Voltage: 3.3V, Peak Current Limit: 410mA
+K regulator switching linear LDO
+F https://www.monolithicpower.com/pub/media/document/m/p/mp163_r1.02_2.pdf
+$ENDCMP
+#
+$CMP MP163BGS-5
+D 700V, Non-Isolated, Offline Regulator with Integrated LDO, Up to 2W of Output Power, LDO Output Voltage: 5V, Peak Current Limit: 420mA
+K regulator switching linear LDO
+F https://www.monolithicpower.com/pub/media/document/m/p/mp163_r1.02_2.pdf
+$ENDCMP
+#
+$CMP MP163CGS-33
+D 700V, Non-Isolated, Offline Regulator with Integrated LDO, Up to 2W of Output Power, LDO Output Voltage: 3.3V, Peak Current Limit: 660mA
+K regulator switching linear LDO
+F https://www.monolithicpower.com/pub/media/document/m/p/mp163_r1.02_2.pdf
+$ENDCMP
+#
+$CMP MP163CGS-5
+D 700V, Non-Isolated, Offline Regulator with Integrated LDO, Up to 2W of Output Power, LDO Output Voltage: 5V, Peak Current Limit: 660mA
+K regulator switching linear LDO
+F https://www.monolithicpower.com/pub/media/document/m/p/mp163_r1.02_2.pdf
+$ENDCMP
+#
 $CMP MP171GJ
 D 700V Non-Isolated Regulator up to 60mA Output Current
 K MP171 regulator switching
