@@ -930,6 +930,12 @@ K LED diode bicolor dual
 F ~
 $ENDCMP
 #
+$CMP LED_GRAB
+D RGB LED, green/red/anode/blue
+K LED RGB diode
+F ~
+$ENDCMP
+#
 $CMP LED_PAD
 D Light emitting diode with pad
 K LED diode pad
